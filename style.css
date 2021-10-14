@@ -1,0 +1,9 @@
+*{
+  margin: 0 auto;
+}
+
+div {
+  background-image: url(./images/deers.webp);
+  margin: none;
+  height: 500px;
+}
